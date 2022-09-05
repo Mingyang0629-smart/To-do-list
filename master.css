@@ -1,0 +1,39 @@
+html {
+  background-color: #EE9480;
+}
+
+
+.Background {
+  background-color: #49111C;
+  border-radius: 20px;
+}
+
+#inputfield {
+  width: 200px;
+  height: 50px;
+}
+
+
+.Middle {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #EFD2CB;
+  border-color: aliceblue;
+  
+  
+}
+
+.lightbackground {
+  background-color: #ab6d7a;
+  border-radius: 20px;
+}
+
+
+
+.Bigger {
+  font-size: 50px;
+}
+
+.Normalsize {
+  font-size: 20px;
+}
